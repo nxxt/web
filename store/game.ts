@@ -44,6 +44,7 @@ class GameModule extends VuexModule implements HasStore {
       { id: '3', key: 'name' },
       { id: '4', key: 'celebrity' },
       { id: '5', key: 'programming_language' },
+      { id: '6', key: 'software' },
     ])
     this.setLoaded(true)
   }
